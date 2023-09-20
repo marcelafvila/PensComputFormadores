@@ -1,2 +1,2 @@
-# PensComputFormadores
+# PensamentoComputacionalFormadores
 Curso Formador 3
